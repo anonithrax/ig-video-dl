@@ -25,13 +25,13 @@ Responsive on mobile and small devices.
 **1.** Cloning the repository:
 
 ```bash
-git clone https://github.com/riad-azz/instagram-video-downloader.git
+git clone https://github.com/anonithrax/ig-video-dl
 ```
 
 **2.** Installing dependencies:
 
 ```bash
-cd instagram-video-downloader
+cd ig-video-dl
 ```
 
 ```bash
